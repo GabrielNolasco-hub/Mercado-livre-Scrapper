@@ -37,5 +37,5 @@ A cada execução, os dados mais **recentes da busca** são coletados, permitind
 ### **How (Como?)**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/mercadolivre-scraper.git
+   git clone [https://github.com/SEU-USUARIO/mercadolivre-scraper.git](https://github.com/GabrielNolasco-hub/Mercado-livre-Scrapper.git)
    cd mercadolivre-scraper
