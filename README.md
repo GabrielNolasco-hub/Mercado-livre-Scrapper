@@ -1,5 +1,5 @@
 🛒 Mercado Livre Scraper – Projeto Python
-1. What (O que é?)
+1. What 
 
 Um projeto em Python que coleta automaticamente dados públicos do site Mercado Livre, usando web scraping com BeautifulSoup, organiza os resultados com Pandas e exporta-os em um arquivo .csv.
 
