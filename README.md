@@ -1,6 +1,6 @@
-#Mercado Livre Scraper – Projeto Python#
+Mercado Livre Scraper – Projeto Python
 
-##What (O que é?)##
+What (O que é?)
 
 Este é um projeto em Python que coleta automaticamente dados públicos do site Mercado Livre, utilizando web scraping com a biblioteca BeautifulSoup.
 Os resultados coletados são organizados com pandas e exportados em um arquivo .csv.
@@ -13,7 +13,7 @@ Preço
 
 Link para o anúncio
 
-##Why (Por que?)##
+Why (Por que?)
 
 O objetivo do projeto é praticar:
 
@@ -33,25 +33,25 @@ Estudos de mercado
 
 Relatórios de tendências de consumo
 
-##Who (Quem participa?)##
+Who (Quem participa?)
 
 Desenvolvedores iniciantes ou intermediários que desejam aprender scraping, tratamento de dados e exportação.
 
 Usuários ou pesquisadores que desejam consultar listas de produtos atualizadas de forma automatizada.
 
-##Where (Onde será usado?)##
+Where (Onde será usado?)
 
 O script pode ser executado em Windows e Linux.
 
 Os resultados são salvos em um arquivo chamado produtos_mercado_livre.csv, que pode ser aberto em qualquer planilha ou software de análise de dados.
 
-##When (Quando usar?)##
+When (Quando usar?)
 
 Sempre que for necessário coletar informações públicas do Mercado Livre.
 
 Ideal para consultas rápidas de preços, análises de tendências de produtos ou geração de relatórios.
 
-##How (Como funciona?)##
+How (Como funciona?)
 1. Clone o repositório do GitHub:
 git clone https://github.com/seu-usuario/mercado-livre-scraper.git
 cd mercado-livre-scraper
